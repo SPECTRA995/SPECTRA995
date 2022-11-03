@@ -27,3 +27,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="80px" alt="figma">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="80px" alt="sass">
 </div>
+
+## :computer: Some of my projects that I developed in the courses :
+:one: [Eco sounds](https://rolling-scopes-school.github.io/spectra995-JSFEPRESCHOOL/eco-sounds/)
+
+:two: [Tic-Tac-Toe](https://rolling-scopes-school.github.io/spectra995-JSFEPRESCHOOL/tic-tac-toe/)
+
+:three: [Webpage "Portfolio"](https://rolling-scopes-school.github.io/spectra995-JSFEPRESCHOOL/portfolio/)
+
+:four: [Webpage "Mobile online store"](https://rolling-scopes-school.github.io/spectra995-JSFE2022Q1/demoOnlineStore/)
+
+:five: [Webpages "Cozy House"](https://rolling-scopes-school.github.io/spectra995-JSFE2022Q1/shelter/pages/main/)
