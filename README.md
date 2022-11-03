@@ -13,9 +13,6 @@
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/maksim-hladki-71686b208/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-</div>
-
-<div id="badges">
     <a href="https://www.codewars.com/users/SPECTRA995"><img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars Badge"/></a>
 </div>
 
