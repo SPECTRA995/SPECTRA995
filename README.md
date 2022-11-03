@@ -38,3 +38,9 @@
 :four: [**Webpage "Mobile online store"**](https://rolling-scopes-school.github.io/spectra995-JSFE2022Q1/demoOnlineStore/)
 
 :five: [**Webpages "Cozy House"**](https://rolling-scopes-school.github.io/spectra995-JSFE2022Q1/shelter/pages/main/)
+
+:six: [**"Panda Lang" team project**](https://rs-pandas-llang.netlify.app/)
+
+## :books: Courses :
+:one: [**JS/FE PRE-SCHOOL 2022 (Stage #0)**](https://app.rs.school/certificate/th3qpujn)
+:two: [**JAVASCRIPT/FRONT-END 2022Q1 (JAVASCRIPT)**](https://app.rs.school/certificate/dn1sf1ts)
