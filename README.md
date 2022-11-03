@@ -29,12 +29,12 @@
 </div>
 
 ## :computer: Some of my projects that I developed in the courses :
-:one: [Eco sounds](https://rolling-scopes-school.github.io/spectra995-JSFEPRESCHOOL/eco-sounds/)
+:one: [**Eco sounds**](https://rolling-scopes-school.github.io/spectra995-JSFEPRESCHOOL/eco-sounds/)
 
-:two: [Tic-Tac-Toe](https://rolling-scopes-school.github.io/spectra995-JSFEPRESCHOOL/tic-tac-toe/)
+:two: [**Tic-Tac-Toe**](https://rolling-scopes-school.github.io/spectra995-JSFEPRESCHOOL/tic-tac-toe/)
 
-:three: [Webpage "Portfolio"](https://rolling-scopes-school.github.io/spectra995-JSFEPRESCHOOL/portfolio/)
+:three: [**Webpage "Portfolio"**](https://rolling-scopes-school.github.io/spectra995-JSFEPRESCHOOL/portfolio/)
 
-:four: [Webpage "Mobile online store"](https://rolling-scopes-school.github.io/spectra995-JSFE2022Q1/demoOnlineStore/)
+:four: [**Webpage "Mobile online store"**](https://rolling-scopes-school.github.io/spectra995-JSFE2022Q1/demoOnlineStore/)
 
-:five: [Webpages "Cozy House"](https://rolling-scopes-school.github.io/spectra995-JSFE2022Q1/shelter/pages/main/)
+:five: [**Webpages "Cozy House"**](https://rolling-scopes-school.github.io/spectra995-JSFE2022Q1/shelter/pages/main/)
