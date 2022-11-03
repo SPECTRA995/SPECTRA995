@@ -29,6 +29,6 @@
 
 ## My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPECTRA995&layout=compact)](https://github.com/SPECTRA995/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPECTRA995)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SPECTRA995&theme=Javascript&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
