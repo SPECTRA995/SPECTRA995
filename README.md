@@ -9,10 +9,14 @@
 
 ### I know that there are people with more knowledge than me and I think this is quite normal. Everyone has their own life and their own opportunities to achieve certain goals. I know for sure that I am ready and able to learn, including from my mistakes. I like to learn something new and interesting! :wink:
 
-## :mailbox: My contacts :
+## :mailbox: My contacts and links :
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/maksim-hladki-71686b208/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</div>
+
+<div id="badges">
+    <a href="https://www.codewars.com/users/SPECTRA995"><img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars Badge"/></a>
 </div>
 
 ## :hammer_and_wrench: Languages and Tools :
@@ -26,9 +30,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="80px" alt="figma">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="80px" alt="sass">
 </div>
-
-## My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPECTRA995&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SPECTRA995&theme=Javascript&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
